@@ -3,13 +3,13 @@ files:
 - name: src/Main.kt
   visible: true
   text: |-
-    fun url(host: String, port: Int): String {
-        // TODO
+    fun main() {
+        // write your code here
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/7864#comment
+feedback_link: https://hyperskill.org/learn/step/4629#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Wed, 10 May 2023 12:08:37 UTC
+  time: Wed, 10 May 2023 12:21:49 UTC
 record: -1

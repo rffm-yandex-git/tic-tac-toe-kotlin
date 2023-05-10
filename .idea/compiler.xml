@@ -10,8 +10,18 @@
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task-build-test-results.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task-build-tmp.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-Comment_some_lines.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-Comment_syntax.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-Find_the_correct_comment.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-The_countdown.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-The_forgotten_comments.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Named_arguments-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Named_arguments-URL.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-Arithmetic_expression.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-Date_and_time_formatting.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-What_are_string_templates.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).util.main" target="8" />
     </bytecodeTargetLevel>
   </component>
