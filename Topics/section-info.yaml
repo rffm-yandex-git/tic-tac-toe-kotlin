@@ -2,3 +2,10 @@ content:
 - Named arguments
 - Comments
 - String templates
+- Map
+- Integers in action
+- Null safety
+- Functions as objects
+- Jumps and returns
+- Equality
+- Lambda expressions

@@ -9,6 +9,7 @@
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task-build-reports-tests.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task-build-test-results.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task-build-tmp.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task-out.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-Comment_some_lines.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-Comment_syntax.main" target="8" />
@@ -16,8 +17,41 @@
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-The_countdown.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-The_forgotten_comments.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Comments-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Equality-How_to_compare.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Equality-Kings_of_Sweden.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Equality-Referential_equality.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Equality-The_same_object.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Equality-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Functions_as_objects-Function_generator.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Functions_as_objects-Function_type.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Functions_as_objects-Reference_to_a_top.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Functions_as_objects-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Integers_in_action-Good_rest_on_vacation.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Integers_in_action-Next_even_number.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Integers_in_action-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Integers_in_action-Time_format.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Integers_in_action-Underscore.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Beyond_the_word.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Correct_jumping.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-First_digit.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Jumping_out.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Lambda_expressions-_Not__predicate.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Lambda_expressions-Capturing_variable.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Lambda_expressions-Max.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Lambda_expressions-Polynomial.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Lambda_expressions-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Map-Comprehension.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Map-Comprehension__1_.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Map-Is_there_a_key.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Map-Sum_of_values.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Map-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Named_arguments-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Named_arguments-URL.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Null_safety-Elvis_throwing_exceptions.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Null_safety-Fake_operator.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Null_safety-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-Arithmetic_expression.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-Date_and_time_formatting.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-Theory.main" target="8" />
