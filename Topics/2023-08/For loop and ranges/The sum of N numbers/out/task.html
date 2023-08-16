@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The sum of N numbers | For loop and ranges | Control structures | Control flow | Kotlin | Programming languages | Computer science | Hyperskill</title>
+
+    <link rel="icon" href="https://hs.azureedge.net/static/favicons/favicon.ico" sizes="any">
+    <link rel="icon" href="https://hs.azureedge.net/static/favicons/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="https://hs.azureedge.net/static/favicons/apple-touch-icon.png">
+    <link rel="manifest" href="https://hs.azureedge.net/static/favicons/manifest.webmanifest">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="Write a program that calculates the sum of N numbers.
+
+The first line contains the number N.
+The other lines contain N numbers.
+
+Output the sum of N numbers.">
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="Hyperskill"/>
+    <meta property="og:title"
+          content="The sum of N numbers | For loop and ranges | Control structures | Control flow | Kotlin | Programming languages | Computer science | Hyperskill"/>
+    <meta property="og:description"
+          content="Write a program that calculates the sum of N numbers.
+
+The first line contains the number N.
+The other lines contain N numbers.
+
+Output the sum of N numbers."/>
+    <meta property="og:image" content="https://hyperskill.org/steps/4692/cover.png"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:url" content="https://hyperskill.org/learn/daily/4692"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title"
+          content="The sum of N numbers | For loop and ranges | Control structures | Control flow | Kotlin | Programming languages | Computer science | Hyperskill"/>
+    <meta name="twitter:description"
+          content="Write a program that calculates the sum of N numbers.
+
+The first line contains the number N.
+The other lines contain N numbers.
+
+Output the sum of N numbers."/>
+    <meta name="twitter:image" content="https://hyperskill.org/steps/4692/cover.png"/>
+
+    <meta property="fb:app_id" content="1014959062006130"/>
+
+    <link rel="dns-prefetch" href="https://hs.azureedge.net" />
+    <link rel="preconnect" href="https://hs.azureedge.net" />
+    <link rel="preconnect" href="https://sentry.int.hyperskill.org" crossorigin />
+
+    <!--
+    --><link rel="canonical" href="https://hyperskill.org/learn/daily/4692"><!--
+    -->
+
+    <script>
+      (function() {
+        let csrftoken
+
+        function getCookie (name) {
+          const cookies = document.cookie.split('; ')
+          for (let i = 0; i < cookies.length; i++) {
+            const cookie = cookies[i]
+            const [cookieName, cookieValue] = cookie.split('=')
+            if (cookieName === name) {
+              return cookieValue
+            }
+          }
+
+          return null
+        }
+
+        async function getJSON (url) {
+          if (!csrftoken) {
+            csrftoken = getCookie('csrftoken')
+          }
+
+          const resp = await fetch(url, {
+            method: 'GET',
+            headers: {
+              'Content-Type': 'application/json',
+              'X-CSRFToken': csrftoken
+            }
+          })
+
+          if (!resp.ok) {
+            const err = new Error(`Unable to preload data from ${url}: ${resp.status} ${resp.statusText}`)
+            err.status = resp.status
+            throw err
+          }
+
+          return resp.json()
+        }
+
+        if ('True' === 'True') {
+          window.environment = 'hyperskill.org'
+          window.release = '5c2590b43c6be47c201c2637ff06cb3a78fe579e'
+          window.commit = '5c2590b43c6be47c201c2637ff06cb3a78fe579e'
+          window.sentry_dsn = 'https://95e0066e01d74dfab4c2475ad75abc17@sentry.int.hyperskill.org/3'
+        }
+
+        window.hyperskill_user = window.hyperskill_user
+          || getJSON('/api/profiles/current').then(data => data.profiles[0])
+        window.subscription_current = getJSON('/api/subscriptions/current')
+          .then(data => data.subscriptions[0])
+          .catch((error) => {
+            if (error.status === 404) {
+              return null
+            }
+
+            throw error
+          })
+      })()
+    </script>
+
+    <!--
+
+    -->
+    <script type="module" crossorigin src="https://hs.azureedge.net/static/main-33c905e5.js"></script>
+    <link rel="modulepreload" crossorigin href="https://hs.azureedge.net/static/vendor-765e136e.js">
+    <link rel="modulepreload" crossorigin href="https://hs.azureedge.net/static/vendor-vue-aaf1de0a.js">
+    <link rel="modulepreload" crossorigin href="https://hs.azureedge.net/static/vendor-sentry-10baed46.js">
+    <link rel="modulepreload" crossorigin href="https://hs.azureedge.net/static/vendor-bootstrap-vue-3e066971.js">
+    <link rel="stylesheet" href="https://hs.azureedge.net/static/index-b397bac8.css">
+</head>
+
+<body>
+<div id=app></div>
+
+
+</body>
+</html>

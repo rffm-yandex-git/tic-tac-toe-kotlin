@@ -80,6 +80,8 @@
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Introduction_to_MutableList-The_first_element_of_a_list.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Introduction_to_MutableList-The_last_element_of_a_list.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Introduction_to_MutableList-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Iterators-Roller_coasters.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Iterators-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Beyond_the_word.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Correct_jumping.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-First_digit.main" target="8" />
@@ -112,6 +114,14 @@
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Multi-dimensional_list-Kotlin_lists.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Multi-dimensional_list-Shapeshifter.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Multi-dimensional_list-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_List-Adding.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_List-Mutable_List.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_List-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_List-You_don't_need_them.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_Map-About_Mutable_Map.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_Map-Exam_marks.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_Map-The_output_of_two_maps.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_Map-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_Set-Additional_elements.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_Set-Combination.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Mutable_Set-Division_problem.main" target="8" />
@@ -131,6 +141,11 @@
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Nullable_and_non-nullable_types-Safe_call.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Nullable_and_non-nullable_types-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Nullable_and_non-nullable_types-What's_your_name.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Create_a_euphonious_word.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Determine_the_value.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Lucky_number.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Processing_strings-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Repeating_blocks-Counting_positive_numbers.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Repeating_blocks-Grades.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Repeating_blocks-Increment_in_loop.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Repeating_blocks-Kotlin_x5.main" target="8" />
@@ -156,6 +171,8 @@
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-String_and_its_Int.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-String_templates-What_are_string_templates.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Test_predicates__checking_elements_in_collection-Has_the_spell_been_invoked.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Test_predicates__checking_elements_in_collection-Theory.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-The_classification_of_basic_types-Existing_types.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-The_classification_of_basic_types-Find_the_type_of_variable_you_want.main" target="8" />
       <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="8" />

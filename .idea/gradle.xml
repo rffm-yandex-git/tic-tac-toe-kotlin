@@ -89,6 +89,8 @@
             <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/The first element of a list" />
             <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/The last element of a list" />
             <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterators/Roller coasters" />
+            <option value="$PROJECT_DIR$/Topics/Iterators/Theory" />
             <option value="$PROJECT_DIR$/Topics/Jumps and returns/Beyond the word" />
             <option value="$PROJECT_DIR$/Topics/Jumps and returns/Correct jumping" />
             <option value="$PROJECT_DIR$/Topics/Jumps and returns/First digit" />
@@ -121,6 +123,14 @@
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Kotlin lists" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Shapeshifter" />
             <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Adding" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Mutable List" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Mutable List/You don't need them" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/About Mutable Map" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Exam marks" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/The output of two maps" />
+            <option value="$PROJECT_DIR$/Topics/Mutable Map/Theory" />
             <option value="$PROJECT_DIR$/Topics/Mutable Set/Additional elements" />
             <option value="$PROJECT_DIR$/Topics/Mutable Set/Combination" />
             <option value="$PROJECT_DIR$/Topics/Mutable Set/Division problem" />
@@ -140,6 +150,11 @@
             <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Safe call" />
             <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/What's your name" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Create a euphonious word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Lucky number" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Counting positive numbers" />
             <option value="$PROJECT_DIR$/Topics/Repeating blocks/Grades" />
             <option value="$PROJECT_DIR$/Topics/Repeating blocks/Increment in loop" />
             <option value="$PROJECT_DIR$/Topics/Repeating blocks/Kotlin x5" />
@@ -165,6 +180,8 @@
             <option value="$PROJECT_DIR$/Topics/String templates/String and its Int" />
             <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
             <option value="$PROJECT_DIR$/Topics/String templates/What are string templates" />
+            <option value="$PROJECT_DIR$/Topics/Test predicates  checking elements in collection/Has the spell been invoked" />
+            <option value="$PROJECT_DIR$/Topics/Test predicates  checking elements in collection/Theory" />
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/Existing types" />
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/Find the type of variable you want" />
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/Max values of integer types" />
