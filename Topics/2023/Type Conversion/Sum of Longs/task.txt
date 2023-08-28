@@ -1,0 +1,21 @@
+ Sum of Longs
+Problem of the day
+Next problem in: 13h 20m 3s
+
+Write a program that takes two large numbers as input,
+converts them to Long, and prints the result of their summation.
+
+Input: two long numbers as strings (each starting on new line).
+
+Output: Long value.
+
+Sample Input 1:
+
+1000000000000000
+2222222222222222
+
+Sample Output 1:
+
+3222222222222222
+
+5821 users solved this problem. Latest completion was 12 hours ago.

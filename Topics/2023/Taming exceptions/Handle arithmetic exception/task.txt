@@ -1,0 +1,32 @@
+ Taming exceptions
+Handle arithmetic exception
+Problem of the day
+Next problem in: 5h 22m 55s
+
+Write a program that calculates the division of two input numbers. It may throw an ArithmeticException. Fix it to avoid the exception.
+
+In the case when the exception can happen, the corrected program should output: Division by zero, please fix the second argument!.
+
+Sample Input 1:
+
+8
+2
+
+Sample Output 1:
+
+4
+
+Sample Input 2:
+
+8
+0
+
+Sample Output 2:
+
+Division by zero, please fix the second argument!
+
+3102 users solved this problem. Latest completion was 6 hours ago.
+Report a typo
+Write a program in Kotlin
+
+    Code Editor

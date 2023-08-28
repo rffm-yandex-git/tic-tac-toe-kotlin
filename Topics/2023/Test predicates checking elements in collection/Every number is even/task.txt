@@ -1,0 +1,17 @@
+ Test predicates: checking elements in collection
+Every number is even
+Problem of the day
+Next problem in: 19h 34m 10s
+
+You are given a list of numbers.
+You must check if every number is even and less than or equal to 20.
+
+Sample Input 1:
+
+2 4 8 22
+
+Sample Output 1:
+
+false
+
+172 users solved this problem. Latest completion was 1 week ago.

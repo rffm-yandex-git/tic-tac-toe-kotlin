@@ -1,7 +1,7 @@
 buildscript {
     repositories {
         maven { url "https://packages.jetbrains.team/maven/p/academy/hyperskill-hspc" }
-		maven { url "https://jitpack.io" }
+        maven { url "https://jitpack.io" }
     }
 
     dependencies {
@@ -26,7 +26,7 @@ rootProject.projectDir.eachDirRecurse {
     for (name in taskRelativePath) {
         parts.add(sanitizeName(name.toString()))
     }
-    def moduleName =  parts.join("-")
+    def moduleName = parts.join("-")
     include "$moduleName"
     project(":$moduleName").projectDir = it
 }
@@ -36,3 +36,6 @@ def isTaskDir(File dir) {
 }
 
 include 'util'
+include 'Topics:2023:JUnit:Calculator'
+findProject(':Topics:2023:JUnit:Calculator')?.name = 'Calculator'
+

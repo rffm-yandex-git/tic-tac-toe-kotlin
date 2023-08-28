@@ -1,0 +1,21 @@
+ Perimeter
+
+Wow! This problem is kind of tricky. If you're ready to put your thinking cap on, brace yourself and good luck! Otherwise, you can skip it for now and return any time later
+
+Change and implement the perimeter() function to calculate the perimeter of a polygon with 3 or 4 vertices, represented by X and Y coordinates. Vertices are passed sequentially.
+
+Example of polygons with three and four vertices
+
+You can use the Math.hypot(..., ...)function to calculate the length of the segment using the Pythagorean theorem. Math.hypot(x,y) returns the formula of the Pythagorean theorem is shown.
+
+Tip: Don't forget that a default value of an argument can be another argument.
+
+Sample Input 1:
+
+0 0 12 0 0 5
+
+Sample Output 1:
+
+30.00
+
+2232 users solved this problem. Latest completion was 2 hours ago.

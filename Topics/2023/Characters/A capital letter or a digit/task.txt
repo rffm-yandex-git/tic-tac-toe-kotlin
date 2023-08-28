@@ -1,0 +1,17 @@
+ A capital letter or a digit
+Problem of the day
+Next problem in: 17h 11m 33s
+
+Write a program that reads a character and checks if it is a capital letter or a digit from 1 to 9.
+
+The program must print either true or false.
+
+Sample Input 1:
+
+A
+
+Sample Output 1:
+
+true
+
+6059 users solved this problem. Latest completion was 16 hours ago.
