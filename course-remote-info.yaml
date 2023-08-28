@@ -22,8 +22,6 @@ stages:
   is_completed: false
 topics:
   0:
-  - title: Computer programming
-    theory_id: 8739
   - title: Introduction to Kotlin
     theory_id: 4350
   - title: Basic literals
@@ -76,10 +74,6 @@ topics:
     theory_id: 4625
   - title: Repeating blocks
     theory_id: 4643
-  - title: Objects
-    theory_id: 11233
-  - title: Equality
-    theory_id: 11236
   - title: Unicode
     theory_id: 7899
   - title: Characters
@@ -90,6 +84,10 @@ topics:
     theory_id: 14879
   - title: For loop and ranges
     theory_id: 4652
+  - title: Objects
+    theory_id: 11233
+  - title: Equality
+    theory_id: 11236
   - title: Work with MutableLists
     theory_id: 14902
   - title: For loop and lists
